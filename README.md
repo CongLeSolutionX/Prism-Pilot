@@ -37,6 +37,11 @@ PrismPilot is designed to clearly illustrate several core techniques:
 *   **Simple Animation:** Passing a time uniform to the vertex shader to perform a basic rotation.
 *   **Render Loop:** Understanding the fundamental steps in the `draw(in:)` method: obtaining a drawable, creating command buffers/encoders, setting pipeline state, binding buffers, issuing draw calls, and committing work.
 
+---
+
+## Demo - TODO
+
+![Demo_Prism_Pilot](./MEDIA/Demo_PrismPilot_MainView.mov)
 
 ---
 
